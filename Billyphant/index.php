@@ -8,6 +8,7 @@
 </head>
 <body>
 
+	You must sign in to continue.
 	<!-- Billyphant members Sign In Form -->
 	<form>
 		<input type="text" name="username">
